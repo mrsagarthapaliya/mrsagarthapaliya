@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/manjilkoirala)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjilkoirala&label=Profile%20views&color=0e75b6&style=flat" alt="mrsagarthapaliya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsagarthapaliya&label=Profile%20views&color=0e75b6&style=flat" alt="mrsagarthapaliya" /> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 - 🔭 I’m currently working on some personal projects
